@@ -53,11 +53,31 @@ Implementing a Git-scraping chatbot like **GitOrion** can bring multiple advanta
 - **Cross-Departmental Utility:**  
   Beyond development, similar systems can index policy documents, FAQs, and procedural guides to benefit HR, support, and other departments.
 
-## Installation
+# Installation
 
-Follow these steps to set up **GitOrion**:
+## Running the Notebook Locally
 
-1. **Clone the repository:**
+If you're using a Jupyter Notebook (`*.ipynb`) file, follow these steps to run it locally:
 
-   ```bash
-   git clone https://github.com/yourusername/GitOrion.git
+### 1. Install Jupyter Notebook or Jupyter Lab
+
+If you haven't installed Jupyter, open your terminal and run:
+```bash
+pip install notebook
+
+Alternatively, for a more modern interface:
+
+
+
+
+
+```bash
+pip install jupyterlab
+
+```bash
+
+
+```bash
+
+
+```bash
