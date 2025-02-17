@@ -53,19 +53,35 @@ Implementing a Git-scraping chatbot like **GitOrion** can bring multiple advanta
 - **Cross-Departmental Utility:**  
   Beyond development, similar systems can index policy documents, FAQs, and procedural guides to benefit HR, support, and other departments.
 
-# Installation
+\# Installation
 
-## Running the Notebook Locally
+\## Running the Notebook Locally
 
-If you're using a Jupyter Notebook (`*.ipynb`) file, follow these steps to run it locally:
+If you\'re using a Jupyter Notebook (\`\*.ipynb\`) file, follow these
+steps to run it locally:
 
-### 1. Install Jupyter Notebook or Jupyter Lab
+\### 1. Install Jupyter Notebook or Jupyter Lab
 
-If you haven't installed Jupyter, open your terminal and run:
-```bash
-pip install notebook
+If you haven\'t installed Jupyter, open your terminal and run:
 
-Alternatively, for a more modern interface:
+\`\`\`bash pip install notebook
+
+Alternatively, for a more modern interface: pip install jupyterlab
+
+2\. Navigate to Your Project Directory Change to the directory where
+your .ipynb file is located: cd path/to/your/project
+
+3\. Launch Jupyter Notebook or Lab For Jupyter Notebook:
+
+jupyter notebook
+
+For Jupyter Lab:
+
+jupyter lab This command will open a new tab in your default web browser
+displaying the Jupyter interface.
+
+4\. Open Your Notebook In the Jupyter interface, locate and click on
+your .ipynb file to open and run it.
 
 
 
